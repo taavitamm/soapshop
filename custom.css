@@ -1,0 +1,67 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+}  
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+    color: rgb(83, 64, 67);
+}
+
+
+@media only screen and (max-width: 1200px){
+
+    .jumbotron h1 {
+        font-size: 60px;
+    }
+}
+@media only screen and (max-width: 1000px){
+
+    .jumbotron h1  {
+        font-size: 40px;
+    }
+}
+@media only screen and (max-width: 760px){
+
+    .jumbotron hr {
+        display: none;
+    }
+}
+.carousel-inner img {
+    width: 80%;
+    height: 80%;
+  }
+
+
+
+}
