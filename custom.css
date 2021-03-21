@@ -37,31 +37,7 @@ footer {
     padding: 5em;
     color: rgb(83, 64, 67);
 }
-
-
-@media only screen and (max-width: 1200px){
-
-    .jumbotron h1 {
-        font-size: 60px;
-    }
-}
-@media only screen and (max-width: 1000px){
-
-    .jumbotron h1  {
-        font-size: 40px;
-    }
-}
-@media only screen and (max-width: 760px){
-
-    .jumbotron hr {
-        display: none;
-    }
-}
 .carousel-inner img {
-    width: 80%;
-    height: 80%;
+    width: 95%;
+    height: 100%;
   }
-
-
-
-}
